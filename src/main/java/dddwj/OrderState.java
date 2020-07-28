@@ -2,5 +2,5 @@ package dddwj;
 
 public enum OrderState
 {
-	NEW, PLACED;
+	NEW, PLACED, DELIVERED, CANCELLED;
 }
